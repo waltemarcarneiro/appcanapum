@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "Downloads diretos e sem propagandas",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "App Canapum",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "App Canapum",
+  "start_url": "/",
+  "theme_color": "#212121",
+  "icons": [
+    {
+      "src": "images/500x500.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    },
+    {
+      "src": "https://appcanapum.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
