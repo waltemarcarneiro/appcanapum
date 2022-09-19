@@ -2,7 +2,7 @@
   "background_color": "#ffffff",
   "description": "Downloads diretos e sem propagandas",
   "dir": "ltr",
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "App Canapum",
   "orientation": "any",
   "scope": "/",
