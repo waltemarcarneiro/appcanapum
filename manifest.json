@@ -17,6 +17,10 @@
       "type": "image/png",
       "sizes": "500x500"
     },
+    {
+      "src": "https://appcanapum.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    }
     ],
   "shortcuts": []
 }
